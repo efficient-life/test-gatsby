@@ -5,7 +5,8 @@
   "description": "my-gatsby-site",
   "author": "efficient-life",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "yarn"
   ],
   "scripts": {
     "develop": "gatsby develop",
